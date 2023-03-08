@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000000;
+}
+header{
+    width: 90%;
+    padding: 2vw 0 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+header>div{
+    color: white;
+    font-size: 3vw;
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+}
+nav{
+    /*width: 90%;*/
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+nav>a{
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 40px;
+}
+.content{
+    width: 90%;
+    margin: 3vw auto 0 auto;
+    display: flex;
+}
+.left_con{
+    width: 80%;
+    height: 80vh;
+    border: 1px solid #BFBFBF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.right_con{
+    width: 20%;
+    height: 80vh;
+    border: 1px solid #BFBFBF;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.right_con::-webkit-scrollbar{
+    width: 0 !important;
+}
+.right_con>div{
+    width: 100%;
+    border-bottom: 1px solid #BFBFBF;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.right_con>div:hover{
+    transform: scale(1.1);
+}
+img{
+    width: 100%;
+    display: block;
+}
+
+.left_con>video{
+    height: 100%;
+    margin: auto;
+}
+.bottom_con{
+    width: 90%;
+    margin: auto;
+    padding-bottom: 4vw;
+}
+.songName{
+    font-size: 4vw;
+    color: white;
+    font-weight: 600;
+    margin-top: 2vw;
+}
+.issueDate{
+    font-size: 2vw;
+    color: white;
+    font-weight: 600;
+    margin-top: 3vw;
+}
+.creator{
+    font-size: 2vw;
+    color: white;
+    font-weight: 600;
+}

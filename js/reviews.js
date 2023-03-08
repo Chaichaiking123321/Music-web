@@ -63,7 +63,7 @@ let songs = [
         songName: 'Happy',
         musicSrc: './songs/music7.mp3',
         imgSrc: './img/img7.jpg',
-        creator: ' Pharrell Williams',
+        creator: 'Pharrell Williams',
         issueDate: '6/18/2013',
         topText: 'In May 2014, a group of Iranian fans who created a tribute to "Happy" was arrested. According to a police chief, the song represented vulgarity and also hurt public chastity. Williams responded to the arrest in a tweet stating "It\'s beyond sad these kids were arrested for trying to spread happiness."',
         reviews: 'I absolutely love Happy by Pharrell Williams. It\'s one of those songs that just makes you feel good. The melody is so catchy and fun, and the lyrics are all about celebrating life and being happy. It\'s the ultimate feel-good anthem and the perfect song to blast when you\'re driving with the windows down.',
@@ -84,7 +84,7 @@ let songs = [
         musicSrc: './songs/music9.mp3',
         imgSrc: './img/img9.jpg',
         creator: 'Earth, Wind & Fire',
-        issueDate: '10/5/2010',
+        issueDate: '14/11/1981',
         topText: 'The "Let\'s Groove" single and the album Raise! both sport cover art with Egyptian themes. If you notice a lot of Egyptian themes in and around the disco era in the US, that\'s because the whole country was going through an Egyptian fad. This craze was sparked in part by the ancient Egyptian treasures of King Tut being re-discovered',
         reviews: 'Let\'s Groove by Earth, Wind & Fire is a certified bop. It\'s got that funky disco sound that just makes you want to move your feet. And the chorus is so catchy - you can\'t help but sing along. It\'s the perfect song for any dance party or workout playlist.',
         rate: '7/10'
@@ -94,7 +94,7 @@ let songs = [
         musicSrc: './songs/music10.mp3',
         imgSrc: './img/img10.jpg',
         creator: 'Earth, Wind & Fire',
-        issueDate: '20/10/2007',
+        issueDate: '18/11/1978',
         topText: 'The song is one of six randomly-selected songs that may play on the Guardians of the Galaxy: Cosmic Rewind roller coaster. Also, Movies that used this song include Night at the Museum, The Ringer, Soul Food, Dan In Real Life, and Babel.',
         reviews: 'September by Earth, Wind & Fire is a must-have on any party playlist. It\'s the ultimate feel-good song that everyone knows and loves. And even if you don\'t know all the words, you can\'t resist singing along to the "ba-dee-ya" chorus. It\'s a timeless classic that never gets old.',
         rate: '9/10'
